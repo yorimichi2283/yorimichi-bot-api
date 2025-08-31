@@ -1,0 +1,10 @@
+{
+  "name": "yorimichi-bot-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.58.1",
+    "nodemailer": "^6.9.11"
+  }
+}
